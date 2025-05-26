@@ -6,7 +6,7 @@ I'm a cybersecurity-focused developer with a passion for building useful tools a
 
 ## 🔭 What I'm working on
 
-🚀 **[live-auction.vercel.app.no](https://live-auksjon.vercel.app/)**  
+🚀 **[Live-auction application](https://live-auksjon.vercel.app/)**  
 A real-time auction platform built from scratch using **React, Node.js, MongoDB, Redis**, and **AWS S3** for image storage. Fullstack, fully integrated with external APIs (Statens Vegvesen), authentication, and file handling.
 
 🛡️ **Digitalvern.no**  
@@ -50,4 +50,4 @@ Currently building projects with **CI/CD pipelines**, GitHub Actions, and deploy
 📍 Oslo, Norway  
 📧 peiwast124@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/peiwast-hama-467a57232/)  
-🌐 [Rimeligauksjon.no](https://www.rimeligauksjon.no/) | [Digitalvern.no](https://digitalvern.no/)
+🌐 [Live-auction application](https://live-auksjon.vercel.app/) | [Digitalvern.no](https://digitalvern.no/)

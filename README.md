@@ -20,7 +20,7 @@ Currently building projects with **CI/CD pipelines**, GitHub Actions, and deploy
 ## 🧰 Tech Stack
 
 **Languages & Frameworks:**  
-- JavaScript, Node.js, Python, Java  
+- JavaScript, Node.js, Python, Java, C, C#
 - React, Express, HTML/CSS
 
 **Databases:**  
@@ -32,7 +32,7 @@ Currently building projects with **CI/CD pipelines**, GitHub Actions, and deploy
 - Infrastructure as Code (Terraform, Bicep – learning)
 
 **Security:**  
-- Cyber defense, secure API integrations, article writing on digital safety
+- Cyber defense, secure API integrations, article writing on digital safety, ethical hacking
 
 ---
 

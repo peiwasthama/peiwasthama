@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Peiwast
 
-I'm a cybersecurity-focused developer with a passion for building useful tools and secure digital solutions. I hold a Bachelor's degree in **Cyber and Information Security** from Kristiania University College, and I'm currently diving deep into **DevOps, cloud computing (Azure), and fullstack development**.
+I'm a cybersecurity-focused developer with a passion for building useful tools and secure digital solutions. I hold a Bachelor's degree in **Information Technology with a specialization in Cyber Security** from Kristiania University College, and I'm currently diving deep into **DevOps, cloud computing (Azure), and fullstack development**.
 
 ---
 

@@ -9,30 +9,37 @@ I'm a cybersecurity-focused developer with a passion for building useful tools a
 🚀 **[Live-auction application](https://live-auksjon.vercel.app/)**  
 A real-time auction platform built from scratch using **React, Node.js, MongoDB, Redis**, and **AWS S3** for image storage. Fullstack, fully integrated with external APIs (Statens Vegvesen), authentication, and file handling.
 
-🛡️ **[Digitalvern.no](https://digitalvern.no/)**
+🛡️ **[Digitalvern.no](https://digitalvern.no/)**  
 A security blog aimed at raising awareness around digital safety. Over **3,000 visitors** in the first month. Focused on practical, accessible cybersecurity tips.
 
 ☁️ **Azure & DevOps Projects**  
-Currently building projects with **CI/CD pipelines**, GitHub Actions, and deploying to **Azure App Services** using Infrastructure-as-Code (IaC) to deepen my cloud and automation skills.
+Currently building projects with **CI/CD pipelines**, GitHub Actions, and deploying to **Azure App Services** to deepen my cloud and automation skills.
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages & Frameworks:**  
-- JavaScript, Node.js, Python, Java, C, C#
-- React, Express, HTML/CSS
+- JavaScript, Node.js, Python, Java, C, C#  
+- React, Express, HTML, CSS, Bootstrap, Electron, Formik + Yup, Socket.io
 
 **Databases:**  
-- MongoDB, SQL
+- MongoDB, SQL (MySQL/PostgreSQL), Firebase Firestore
 
 **Cloud & DevOps:**  
-- Azure (App Service, VMs), AWS S3  
-- GitHub Actions (CI/CD)  
-- Infrastructure as Code (Terraform, Bicep – learning)
+- Azure (App Services, VMs, Storage)  
+- AWS S3  
+- GitHub Actions (CI/CD pipelines)
 
-**Security:**  
-- Cyber defense, secure API integrations, article writing on digital safety, ethical hacking
+**Security & Networking:**  
+- Cyber defense, secure API integrations, JWT & Firebase authentication  
+- Ethical hacking (Kali Linux), WireGuard VPN automation  
+- Wireshark, SSH, Linux server administration (Ubuntu, Oracle Linux)
+
+**Tools:**  
+- Visual Studio, VS Code, Postman, Git, GitHub  
+- Microsoft Intune, Salesforce (used professionally)  
+- VMware, VirtualBox
 
 ---
 

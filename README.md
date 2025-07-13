@@ -4,7 +4,7 @@ I'm a cybersecurity-focused developer with a passion for building useful tools a
 
 ---
 
-## 🔭 What I'm working on
+## 🔭 What I've worked/working on
 
 🚀 **[Live-auction application](https://live-auksjon.vercel.app/)**  
 A real-time auction platform built from scratch using **React, Node.js, MongoDB, Redis**, and **AWS S3** for image storage. Fullstack, fully integrated with external APIs (Statens Vegvesen), authentication, and file handling.
